@@ -1,0 +1,5 @@
+                                                  Information
+This R script was created by Dr Patricia E. Garcia to import an SP file from a Perkin-Elmer FL 55 fluorometer. 
+The fluorometer settings include an emission range of 300–600 nm with an excitation range of 250 nm in 5 nm intervals. 
+This setting creates 43 SP files for each sample.
+
